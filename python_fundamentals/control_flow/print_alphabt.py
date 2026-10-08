@@ -4,5 +4,4 @@ for value in range(ord("a"), ord("z") + 1):
     letter = chr(value)
     if letter in "eq":
         continue
-    print(letter)
-print()
+    print(letter, end="")
