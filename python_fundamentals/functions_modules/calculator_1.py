@@ -1,16 +1,16 @@
 #!/usr/bin/env python3
 
-def suma(a, b):
+def add(a, b):
     return (a + b)
 
 
-def resta(a, b):
+def sub(a, b):
     return (a - b)
 
 
-def multi(a, b):
+def mul(a, b):
     return (a * b)
 
 
-def divi(a, b):
+def div(a, b):
     return int(a / b)
