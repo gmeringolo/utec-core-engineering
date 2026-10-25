@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
-safe_print_list = __import__('safe_print_list').safe_print_list
+safe_print_integer = __import__('safe_print_integer').safe_print_integer
 
-my_list = [1, 2, 3, 4, 5]
+value = 24
+print(safe_print_integer(value))
 
-nb_print = safe_print_list(my_list, 2)
-print(f"nb_print: {nb_print}")
+value = "School"
+print(safe_print_integer(value))
