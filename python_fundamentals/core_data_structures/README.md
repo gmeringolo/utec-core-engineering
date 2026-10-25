@@ -6,3 +6,4 @@
 2. Reemplaza un elemento en una lista
 3. Imprima una matriz de enteros
 4. Adición de tuplas
+5. Elementos comunes en dos conjuntos
