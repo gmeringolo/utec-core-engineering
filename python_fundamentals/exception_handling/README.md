@@ -3,3 +3,4 @@
 
 0. Impresión segura de listas
 1. Impresión segura de enteros
+2. Impresión segura de listas con manejo de tipos
