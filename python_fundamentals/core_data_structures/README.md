@@ -7,3 +7,4 @@
 3. Imprima una matriz de enteros
 4. Adición de tuplas
 5. Elementos comunes en dos conjuntos
+6. Actualizar o agregar una clave/valor en un diccionario
