@@ -6,3 +6,4 @@
 2. Impresión segura de listas con manejo de tipos
 3. Dividir dos enteros de forma segura
 4. Lanzar una excepción
+5. Lanzar un mensaje
