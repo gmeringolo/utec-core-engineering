@@ -3,3 +3,4 @@
 
 0. Leer archivo
 1. Escribir en un archivo
+2. Añadir a un archivo
