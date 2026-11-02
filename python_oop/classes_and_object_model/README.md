@@ -8,3 +8,4 @@
 5. Acceder y actualizar un atributo privado
 6. Imprimir un cuadrado
 7. Imprimir la instancia cuadrada
+8. Clase Rectángulo
