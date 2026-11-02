@@ -3,3 +3,4 @@
 
 1. Mi primer cuadrado
 2. Cuadrado con tamaño
+3. Validación de tamaño
