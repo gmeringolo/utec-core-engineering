@@ -5,3 +5,4 @@
 2. Cuadrado con tamaño
 3. Validación de tamaño
 4. Área de un cuadrado
+5. Acceder y actualizar un atributo privado
