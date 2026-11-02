@@ -9,3 +9,4 @@
 6. Imprimir un cuadrado
 7. Imprimir la instancia cuadrada
 8. Clase Rectángulo
+9. Área y perímetro
